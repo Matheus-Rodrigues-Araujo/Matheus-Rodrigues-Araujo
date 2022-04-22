@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Matheus-Rodrigues-Araujo, i'm a computer science student, live in Brazil, CE.
+- 👋 Hi, I’m @Matheus-Rodrigues-Araujo, i'm a student of Information Systems-IFCE, live in Brazil, CE.
 - 👀 I’m interested in coding, finding bugs, resolve problems.
 - 🌱At the moment, I am learning and doing some projects with Html, Css, Javascript, Node.js.
 - 💞️ I’m looking to collaborate with everybody here
