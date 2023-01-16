@@ -2,5 +2,4 @@
 - 👀 I’m interested in coding, finding bugs, resolve problems.
 - 🌱At the moment, I am learning and doing some projects with React.js and Node.js.
 - 💞️ I’m looking to collaborate with everybody here
-- 📫 How to reach me: matheuslobo193@gmail.com
-- My technologies: HTML, CSS, JAVASCRIPT, NODE.JS AND REACT.JS
+- My technologies: HTML, CSS, Javascript React.JS, Redux, Node.js
