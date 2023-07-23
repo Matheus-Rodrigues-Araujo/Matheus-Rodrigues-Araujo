@@ -1,6 +1,6 @@
 <h1 align="center" >Hi! I'm Matheus ✋</h1>
 
-<p align="center" >Driven by technology and changing people's lives for the better through my programming knowledge</p>
+<p align="center" >I'm a Front-End developer, driven by technology and changing people's lives for the better through my programming knowledge</p>
 
 <div align="center" >
     <a href="https://matheus-dev-zeta.vercel.app/">
