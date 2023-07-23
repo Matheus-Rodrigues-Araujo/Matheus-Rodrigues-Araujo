@@ -1,13 +1,13 @@
 <h1 align="center" >Hi! I'm Matheus ✋</h1>
 
 <div align="center" >
-    <a target="_blank" href="https://matheus-dev-zeta.vercel.app/">
+    <a href="https://matheus-dev-zeta.vercel.app/">
       <img alt="Tests Passing" src="https://img.shields.io/badge/MatheusDev-000000%7D?style=for-the-badge&logo=&logoColor=white" />
     </a>
-    <a target="_blank" href="https://www.linkedin.com/in/matheus-rodrigues-araujo">
+    <a href="https://www.linkedin.com/in/matheus-rodrigues-araujo">
       <img alt="Tests Passing" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a target="_blank" href="#">
+    <a href="#">
       <img alt="Tests Passing" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
 
