@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front-End Developer with over 2 years of experience in building robust and high-quality user interfaces. Specialized in React, Next.js, and TypeScript, with a strong focus on Clean Code practices and agile methodologies. Experienced in integrating with RESTful APIs, optimizing performance, and implementing responsive design. Passionate about innovation and committed to delivering efficient and well-designed solutions. Always eager to learn new technologies and contribute to challenging projects.
+Software Developer with over 2 years of experience in building robust and high-quality user interfaces. Specialized in React, Next.js, and TypeScript, with a strong focus on Clean Code practices and agile methodologies. Experienced in integrating with RESTful APIs, optimizing performance, and implementing responsive design. Passionate about innovation and committed to delivering efficient and well-designed solutions. Always eager to learn new technologies and contribute to challenging projects.
 
 
 ## 🌐 Socials:
